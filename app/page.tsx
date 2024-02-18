@@ -1,6 +1,6 @@
 import React from "react";
 // Components //
-import { Nav, Main } from "./Components";
+import { Nav, Main, Footer } from "./Components";
 
 export default function Home() {
   return (
@@ -9,6 +9,8 @@ export default function Home() {
       <Nav />
       {/* Main */}
       <Main />
+      {/* Footer */}
+      <Footer />
     </>
   );
 }
