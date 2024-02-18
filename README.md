@@ -23,7 +23,7 @@ Welcome to Fitness Workout Next App! This application is designed to help you ac
 Go to the project directory
 
 ```bash
-  https://github.com/JoelDeonDsouza/Next_Fit_V1.git
+ https://github.com/JoelDeonDsouza/Next_Fitness_app.git
 ```
 
 ```bash
