@@ -1,9 +1,12 @@
 import React from "react";
+// Components //
+import { Nav } from "./Components";
 
 export default function Home() {
   return (
-    <main>
-      <h1>Hello world</h1>
-    </main>
+    <>
+      {/* Nav */}
+      <Nav />
+    </>
   );
 }
